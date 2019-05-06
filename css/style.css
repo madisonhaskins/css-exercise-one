@@ -22,7 +22,7 @@ h1 {
   font-size: 2em;
 }
 
-.example h3 {
+.example, h3 {
   padding-top: 30px;
   text-align: center;
 }
